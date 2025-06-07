@@ -1,7 +1,7 @@
 # AI Tutor Application - Frontend
 
 ## Overview
-This is a fullstack application using the MERN stack, which allows learners to have interactive sessions with an ai teacher using openai apis.
+This is a fullstack application using the MERN stack, which allows learners to have interactive sessions with an ai teacher using openai apis. You can find the backend code [here](https://github.com/yashgul/ai-tutor-backend)
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
